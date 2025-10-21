@@ -12,7 +12,7 @@ Cada programa aborda un aspecto fundamental del procesamiento de texto, diseñad
 4. **Mayúsculas y minúsculas:** Convierte texto a mayúsculas o minúsculas.
 5. **Comparar cadenas:** Compara dos cadenas y determina si son iguales.
 6. **Eliminar espacios:** Elimina todos los espacios de una cadena.
-7. **Buscar carácter:** Busca la posición de un caracter específico.
+7. **Buscar caracter:** Busca la posición de un caracter específico.
 8. **Reemplazar caracteres:** Sustituye un caracter por otro.
 9. **Palíndromo simple:** Verifica si una cadena es un palíndromo.
 10. **Primera letra mayúscula:** Convierte la primera letra de cada palabra a mayúscula.
