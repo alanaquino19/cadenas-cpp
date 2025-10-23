@@ -9,7 +9,7 @@ Cada programa aborda un aspecto fundamental del procesamiento de texto, diseñad
 1. **Contar vocales:** Calcula la cantidad de vocales en una cadena.
 2. **Contar palabras:** Determina cuántas palabras contiene una frase.
 3. **Invertir cadena:** Muestra la cadena en orden inverso.
-4. **Mayúsculas y minúsculas:** Convierte texto a mayúsculas o minúsculas.
+4. **Mayúsculas y minúsculas:** Convierte texto a mayúsculas y minúsculas.
 5. **Comparar cadenas:** Compara dos cadenas y determina si son iguales.
 6. **Eliminar espacios:** Elimina todos los espacios de una cadena.
 7. **Buscar caracter:** Busca la posición de un caracter específico.
@@ -19,7 +19,7 @@ Cada programa aborda un aspecto fundamental del procesamiento de texto, diseñad
 11. **Eliminar caracteres repetidos:** Elimina caracteres duplicados.
 12. **Subcadena sin repetidos:** Encuentra la subcadena más larga sin caracteres repetidos.
 13. **Contador de frecuencias:** Muestra la frecuencia de cada caracter.
-14. **Rotación de cadena:** Realiza rotaciones a derecha o izquierda.
+14. **Rotación de cadena:** Realiza rotaciones de cadena.
 15. **Invertir palabras:** Invierte el orden de las palabras en una oración.
 16. **Eliminar palabras repetidas:** Elimina palabras duplicadas de una frase.
 17. **Subcadena común más larga:** Encuentra la subcadena más larga compartida entre dos textos.
@@ -36,7 +36,7 @@ Compila los programas con **g++** u otro compilador compatible:
 
 ## Autor
 
-**Alan Aquino**, estudiante de Ingeniería en Informática.
+Alan Aquino.
 
 ## Licencia
 
