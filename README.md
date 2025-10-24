@@ -1,5 +1,5 @@
 
-# Manipulación de Cadenas en C++
+# Cadenas en C++
 
 Este repositorio contiene una colección de ejercicios prácticos sobre manipulación de cadenas en C++.  
 Cada programa aborda un aspecto fundamental del procesamiento de texto, diseñado para reforzar habilidades de programación y lógica.
